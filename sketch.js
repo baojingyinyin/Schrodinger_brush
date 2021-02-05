@@ -5,7 +5,7 @@ let brush;
 function setup() {
   createCanvas(600, 400);
   strokeWeight(4);
-  background('#023056');
+  background(255);
   noStroke();
   brush = color(255, 0, 100, 50);
 }
